@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="AlternateArray.cs" />
     <Compile Include="Array2D.cs" />
+    <Compile Include="ArrayMethod.cs" />
     <Compile Include="Arrayrforeach.cs" />
+    <Compile Include="JaggedArray.cs" />
     <Compile Include="MaximunArray.cs" />
     <Compile Include="Minimunarray.cs" />
     <Compile Include="OccuranceArray.cs" />

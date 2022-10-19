@@ -12,10 +12,10 @@
 //        {
 //            int[] number = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-//            for (int i = number.Length; i>=0; i--)
+//            for (int i = number.Length; i >= 0; i--)
 //            {
-//                    Console.WriteLine(i);
-                
+//                Console.WriteLine(i);
+
 //            }
 //        }
 //    }
